@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <h1>Welcome to React Projects</h1>
+     <h1>Welcome to Base commit</h1>
     </div>
   );
 }
